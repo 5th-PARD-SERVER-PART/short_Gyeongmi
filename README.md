@@ -6,6 +6,11 @@
 
 
 ---
+## GitHub Repository 
+
+https://github.com/5th-PARD-SERVER-PART/short_Gyeongmi/
+
+---
 
 ## 기능 1
 
