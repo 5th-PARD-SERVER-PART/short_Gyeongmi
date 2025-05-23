@@ -11,7 +11,7 @@
 https://github.com/5th-PARD-SERVER-PART/short_Gyeongmi/
 
 ---
-## Swagger
+## Swagger API 문서
 
 http://172.18.145.130:8080/swagger-ui/index.html
 
