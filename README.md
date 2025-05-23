@@ -16,6 +16,21 @@ https://github.com/5th-PARD-SERVER-PART/short_Gyeongmi/
 http://172.18.145.130:8080/swagger-ui/index.html
 
 ---
+## API 명세서 
+
+https://www.notion.so/API-1fc5cf54b8c0807eb5b2d68b25be9bc9?pvs=4
+
+---
+## 🔁 콜백 연결표 (미루니 API)
+
+| 순서 | 기능 설명             | API Endpoint         | 메서드 | 비고                           |
+|------|----------------------|----------------------|--------|--------------------------------|
+| 1    | 모든 Task 목록 조회   | `/task`              | GET    | 전체 과제(Task) 리스트 조회    |
+| 2    | Task 상세 조회        | `/task/{task_id}`    | GET    | 특정 Task ID 기준 상세 조회   |
+| 3    | Task 생성 (응답 저장) | `/task`              | POST   | 질문 응답 및 키워드 저장      |
+| 4    | Task 삭제             | `/task/{task_id}`    | DELETE | 특정 Task 삭제                |
+
+---
 
 ## 기능 1
 
@@ -47,5 +62,5 @@ http://172.18.145.130:8080/swagger-ui/index.html
   
   <img width="300" alt="스크린샷 2025-05-24 오전 7 31 11" src="https://github.com/user-attachments/assets/f694bd24-dca7-4771-b5b3-f9e5140631de" />
 
-  findByTaskid로 JPA extend한 repo가 자동으로 삭제해줌~
+  findByTaskid로 JPA extend한 repo가 자동으로 삭제해zoom
 
