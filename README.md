@@ -60,10 +60,11 @@ https://www.notion.so/API-1fc5cf54b8c0807eb5b2d68b25be9bc9?pvs=4
 
 - task_id로 완료한 task 삭제
 
-
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/eeca0a8e-c5df-444f-bd06-a926444cda2c" />
-
   <img width="300" alt="스크린샷 2025-05-24 오전 7 31 11" src="https://github.com/user-attachments/assets/f694bd24-dca7-4771-b5b3-f9e5140631de" />
 
   findByTaskid로 JPA extend한 repo가 자동으로 삭제해zoom
+
+
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/eeca0a8e-c5df-444f-bd06-a926444cda2c" />
 
